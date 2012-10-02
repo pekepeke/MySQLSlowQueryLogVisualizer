@@ -1,0 +1,20 @@
+#appname:MySQLSlowQueryLogVisualizer
+#appid:jp.pekepeke.MySQLSlowQueryLogVisualizer
+#publisher:pekepeke
+#image:default_app_logo.png
+#url:http://
+#guid:b6470768-2236-4d4a-abd1-8b063ea4cbe2
+#desc:No description provided
+#type:desktop
+runtime:1.2.1.RC1
+tiapp:1.2.1.RC1
+tifilesystem:1.2.1.RC1
+tiplatform:1.2.1.RC1
+tiui:1.2.1.RC1
+ticodec:1.2.1.RC1
+tidatabase:1.2.1.RC1
+timedia:1.2.1.RC1
+timonkey:1.2.1.RC1
+tinetwork:1.2.1.RC1
+tiprocess:1.2.1.RC1
+tiworker:1.2.1.RC1
